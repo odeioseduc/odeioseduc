@@ -21,7 +21,6 @@
 </tr>
 
 <tr>
----
 
 ### 📝 Script para copiar e colar a redação
 ```javascript
