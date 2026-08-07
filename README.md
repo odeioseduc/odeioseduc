@@ -4,13 +4,13 @@
     <td align="center" width="200">
       <a href="https://odeiosaladofuturo.github.io/Site-scripts/">
         <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-        <b>🔗 HACKS</b>
+        <b>Hacks</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://rafael1coiso10123.github.io/enem/">
         <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-        <b>👀 Games</b>
+        <b>Games</b>
       </a>
     </td>
   </tr>
