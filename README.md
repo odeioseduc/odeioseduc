@@ -15,13 +15,8 @@
     </td>
   </tr>
 </table>
-<tr>
-  <td colspan="4" align="center" style="padding: 20px 0;">
-    <strong>Games</strong>
-  </td>
-</tr>
 
-<tr>
+
 
 ### 📝 Script para copiar e colar a redação
 ```javascript
