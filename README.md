@@ -22,9 +22,5 @@
 ```javascript
 javascript:function remove_block(){const e=function(e){return e.stopImmediatePropagation(),!0};document.addEventListener("copy",e,!0),document.addEventListener("cut",e,!0),document.addEventListener("paste",e,!0),alert("Block Removed!")}remove_block();
 ``` 
-### Link para o VPN que funciona nos positivo, e alguns sites de jogos
+### VPN ABAIXO
 ### https://apps.microsoft.com/detail/9pkl3h9lwmb7?hl=pt-BR&gl=RU
-### https://rec0ded88.com/
-### https://sites.google.com/classroom.center/view-1/
-### Doritus: https://doritus.cloud/
-
