@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="odeioseduc.github.io/scripts/">
+      <a href="https://odeioseduc.github.io/scripts/">
         <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
         <b>Hacks</b>
       </a>
