@@ -23,7 +23,14 @@
         <b>VPN</b>
       </a>
     </td>
-
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://docs.google.com/document/d/1-f5--TpK2wFjwl50RkWJd2rYy2fASjnt6T-L4A1ba8E/edit?tab=t.0">
+        <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
+        <b>GAMES PDF</b>
+      </a>
+    </td>
 
 ### 📝 Script para copiar e colar a redação
 ```javascript
