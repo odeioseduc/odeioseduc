@@ -22,7 +22,7 @@
         <b>VPN</b>
       </a>
     </td>
-<table>
+  </table>
   <tr>
     <td align="center" width="200">
       <a href="https://docs.google.com/document/d/1-f5--TpK2wFjwl50RkWJd2rYy2fASjnt6T-L4A1ba8E/edit?tab=t.0">
