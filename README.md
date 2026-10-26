@@ -13,7 +13,9 @@
         <b>Games</b>
       </a>
     </td>
+  </tr>
 </table>
+<table>
   <tr>
     <td align="center" width="200">
       <a href="https://apps.microsoft.com/detail/9pkl3h9lwmb7?hl=pt-BR&gl=RU">
@@ -21,7 +23,7 @@
         <b>VPN</b>
       </a>
     </td>
-  <table>
+<table>
   <tr>
     <td align="center" width="200">
       <a href="https://docs.google.com/document/d/1-f5--TpK2wFjwl50RkWJd2rYy2fASjnt6T-L4A1ba8E/edit?tab=t.0">
@@ -29,8 +31,7 @@
         <b>GAMES PDF</b>
       </a>
     </td>
-  <table>
-</table>
+
 ### 📝 Script para copiar e colar a redação
 ```javascript
 javascript:function remove_block(){const e=function(e){return e.stopImmediatePropagation(),!0};document.addEventListener("copy",e,!0),document.addEventListener("cut",e,!0),document.addEventListener("paste",e,!0),alert("Block Removed!")}remove_block();
